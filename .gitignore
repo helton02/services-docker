@@ -2,3 +2,5 @@
 /services/hello/package-lock.json
 /services/math/node_modules/
 /services/math/package-lock.json
+/services/registry/node_modules/
+/services/registry/package-lock.json
