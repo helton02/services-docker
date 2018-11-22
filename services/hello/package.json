@@ -8,6 +8,7 @@
         "start": "node service.js"
     },
     "dependencies": {
-        "router": "latest"
+        "router": "latest",
+        "request": "latest"
     }
 }

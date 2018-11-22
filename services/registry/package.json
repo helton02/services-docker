@@ -1,14 +1,13 @@
 {
-    "name": "docker_web_math_service",
+    "name": "docker_registry_service",
     "version": "1.0.0",
     "description": "Node.js on Docker",
     "author": "Helton Miranda <helton_luis02@hotmail.com>",
-    "main": "service.js",
+    "main": "server.js",
     "scripts": {
-        "start": "node service.js"
+        "start": "node server.js"
     },
     "dependencies": {
-        "router": "latest",
-        "request": "latest"
+        "router": "latest"
     }
 }
